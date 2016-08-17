@@ -1,0 +1,14 @@
+{
+  "appname": "Chip Repo 0817",
+  "scope": "BuyerAdmin BuyerReader FullAccess",
+  "clientid": "F725040A-3633-4C2B-863D-F2B853F2D7C1",
+  "buyerid": "Buyer0817",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
